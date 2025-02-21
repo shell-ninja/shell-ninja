@@ -8,6 +8,16 @@
 
 ###
 
+<p>
+
+Actually my name is Mahin. <br>
+I'm a Linux tinkerer who once set out to become a web developer, but my luck had other plans (probably running `sudo rm -rf /life`).😆 <br>
+Now, I spend most of my time writing shell scripts, breaking my Linux setup just to fix it again, and making my desktop look cooler than my actual life. 🚀💻
+
+</p>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
