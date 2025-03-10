@@ -10,9 +10,11 @@
 
 <p>
 
-Actually my name is Mahin. <br>
-I'm a Linux tinkerer who once set out to become a web developer, but my luck had other plans (probably running `sudo rm -rf /life`).😆 <br>
-Now, I spend most of my time writing shell scripts, breaking my Linux setup just to fix it again, and making my desktop look cooler than my actual life. 🚀💻
+#### Actually my name is Mahin. <br>
+
+#### I'm a Linux tinkerer who once set out to become a web developer, but my luck had other plans (probably running `sudo rm -rf /life`).😆 <br>
+
+#### Now, I spend most of my time writing shell scripts, breaking my Linux setup just to fix it again, and making my desktop look cooler than my actual life. 🚀💻
 
 </p>
 
@@ -47,6 +49,9 @@ Now, I spend most of my time writing shell scripts, breaking my Linux setup just
 <div align="center">
   <a href="https://www.facebook.com/mahin.mhm" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://www.youtube.com/@shell-ninja" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/mahin_bhau/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
