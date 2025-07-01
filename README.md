@@ -10,7 +10,7 @@
 
 <p>
 
-#### Actually my name is Mahin. <br>
+### Actually my name is Mahin. <br>
 
 #### I'm a Linux tinkerer who once set out to become a web developer, but my luck had other plans (probably running `sudo rm -rf /life`).😆 <br>
 
@@ -47,7 +47,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.facebook.com/mahin.mhm" target="_blank">
+  <a href="https://www.facebook.com/mahin.bhau" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
   </a>
   <a href="https://www.youtube.com/@shell-ninja" target="_blank">
@@ -56,9 +56,9 @@
   <a href="https://www.instagram.com/mahin_bhau/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/js-bro/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
+  <!-- <a href="https://www.linkedin.com/in/js-bro/" target="_blank"> -->
+  <!--   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  /> -->
+  <!-- </a> -->
 </div>
 
 ###
