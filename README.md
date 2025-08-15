@@ -4,7 +4,9 @@
 
 ## About Me:
 
+<div alige="left">
 Actually my name is Mahin.<br>I'm a Linux geek who once set out to become a web developer, but my luck had other plans (probably running sudo rm -rf /life).😆<br>Now, I spend most of my time writing shell scripts, breaking my Linux setup just to fix it again, and making my desktop look cooler than my actual life. 🚀💻
+</div>
 
 [![](https://visitcount.itsvg.in/api?id=shell-ninja&icon=0&color=0)](https://visitcount.itsvg.in)
 
