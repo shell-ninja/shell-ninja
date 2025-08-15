@@ -57,7 +57,12 @@ Actually my name is Mahin.<br>I'm a Linux geek who once set out to become a web 
 <div align="center">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Hyprland Configuration | Brightness Controller in Desktop](https://ytcards.demolab.com/?id=3JjHhJ_mmTo&title=Hyprland+Configuration+%7C+Brightness+Controller+in+Desktop&lang=en&timestamp=1753200062&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hyprland Configuration | Brightness Controller in Desktop")](https://www.youtube.com/watch?v=3JjHhJ_mmTo)
+[![Hyprland Updated Installation Script by Shell Ninja](https://ytcards.demolab.com/?id=EIIwLshV250&title=Hyprland+Updated+Installation+Script+by+Shell+Ninja&lang=en&timestamp=1747154877&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hyprland Updated Installation Script by Shell Ninja")](https://www.youtube.com/watch?v=EIIwLshV250)
+[![updates in my HYPRLAND dotfiles | shell ninja](https://ytcards.demolab.com/?id=c5KkTZ1HbHo&title=updates+in+my+HYPRLAND+dotfiles+%7C+shell+ninja&lang=en&timestamp=1744908791&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "updates in my HYPRLAND dotfiles | shell ninja")](https://www.youtube.com/watch?v=c5KkTZ1HbHo)
+[![New updates on Hyprland Dotfiles | Shell Ninja](https://ytcards.demolab.com/?id=IY75TPcM40U&title=New+updates+on+Hyprland+Dotfiles+%7C+Shell+Ninja&lang=en&timestamp=1743773943&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "New updates on Hyprland Dotfiles | Shell Ninja")](https://www.youtube.com/watch?v=IY75TPcM40U)
+[![hyprland configuration detailed video by shell ninja](https://ytcards.demolab.com/?id=F221MoOcAZk&title=hyprland+configuration+detailed+video+by+shell+ninja&lang=en&timestamp=1741538371&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "hyprland configuration detailed video by shell ninja")](https://www.youtube.com/watch?v=F221MoOcAZk)
+[![updated HYPRLAND installation script by Shell Ninja | hyprconf-install](https://ytcards.demolab.com/?id=0IQ4RehT6iQ&title=updated+HYPRLAND+installation+script+by+Shell+Ninja+%7C+hyprconf-install&lang=en&timestamp=1740474588&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "updated HYPRLAND installation script by Shell Ninja | hyprconf-install")](https://www.youtube.com/watch?v=0IQ4RehT6iQ)
 <!-- END YOUTUBE-CARDS -->
 
 ![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
