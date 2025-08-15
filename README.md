@@ -14,7 +14,7 @@ Actually my name is Mahin.<br>I'm a Linux geek who once set out to become a web 
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=shell-ninja&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=shell-ninja&abbreviated=true&color=blueviolet)
 
 </div>
 
