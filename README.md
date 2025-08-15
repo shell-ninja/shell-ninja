@@ -12,12 +12,6 @@ Actually my name is Mahin.<br>I'm a Linux geek who once set out to become a web 
 
 </div>
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=shell-ninja&abbreviated=true&color=blueviolet)
-
-</div>
-
 ## 💻 Tech Stack:
 
 <div align="center">
