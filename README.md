@@ -1,34 +1,98 @@
-<div align="center">
+```bash
+┌──────────────────────────────────────────────────────────────┐
+│                     mahin@arch ~ >_                          │
+└──────────────────────────────────────────────────────────────┘
+```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=32&duration=3000&pause=1000&center=true&vCenter=true&height=70&lines=Hey%2C+I'm+Shell+Ninja;A+Linux+Geek)](https://git.io/typing-svg)
+```bash
+mahin@arch ~ > neofetch
+```
 
-</div>
+<table>
+  <tr>
+    <td valign="top" width="280">
+      <img src="myImg.png" width="260" style="border-radius:8px"/>
+    </td>
+    <td valign="top" style="padding-left: 20px;">
 
-<div align="left">
+```
+        mahin@arch
+        ----------
+OS    : Arch Linux x86_64
+WM    : Hyprland
+Shell : zsh
+Term  : kitty
+Editor: nvim
+Theme : Catppuccin Mocha
+Icons : Papirus
+Fetch : neofetch
+```
 
-## About Me:
+```
+██ ██ ██ ██ ██ ██ ██ ██
+▓▓ ▓▓ ▓▓ ▓▓ ▓▓ ▓▓ ▓▓ ▓▓
+```
 
-Actually my name is Mahin.<br>I'm a Linux geek who once set out to become a web developer, but my luck had other plans (probably running sudo rm -rf /life).😆<br>Now, I spend most of my time writing shell scripts, breaking my Linux setup just to fix it again, and making my desktop look cooler than my actual life. 🚀💻
+  </td>
+  </tr>
+</table>
 
-</div>
+```bash
+mahin@arch ~ > whoami
+```
+> **Shell Ninja** — Linux geek, script addict, desktop ricer 🐧
 
-## 💻 Tech Stack:
+```bash
+mahin@arch ~ > cat about.txt
+```
 
-<div align="center">
+Actually my name is **Mahin**.  
+I'm a Linux geek who once set out to become a web developer,  
+but my luck had other plans *(probably running `sudo rm -rf /life`)* 😆  
+Now I spend most of my time writing shell scripts, breaking my Linux  
+setup just to fix it again, and making my desktop look cooler than  
+my actual life. 🚀💻
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+---
 
-</div>
+```bash
+mahin@arch ~ > ls -la tech-stack/
+```
 
-## 🌐 Socials:
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](.)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](.)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](.)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](.)
+[![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](.)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](.)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](.)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](.)
+[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](.)
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](.)
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](.)
+[![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)](.)
+[![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](.)
+[![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)](.)
+[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](.)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](.)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](.)
 
-<div align="center">
+---
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahin.bhau) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahin_bhau) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shell-ninja) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shell-ninja)
+```bash
+mahin@arch ~ > cat socials.conf
+```
 
-</div>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahin.bhau)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahin_bhau)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shell-ninja)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shell-ninja)
 
-## 📊 GitHub Stats & Streak:
+---
+
+```bash
+mahin@arch ~ > gh stats --user shell-ninja
+```
 
 <div align="center">
 
@@ -38,7 +102,11 @@ Actually my name is Mahin.<br>I'm a Linux geek who once set out to become a web 
 
 </div>
 
-### 🔝 Top Contributed Repo
+---
+
+```bash
+mahin@arch ~ > git log --top-repos --limit=5
+```
 
 <div align="center">
 
@@ -46,7 +114,11 @@ Actually my name is Mahin.<br>I'm a Linux geek who once set out to become a web 
 
 </div>
 
-## My Latest Videos
+---
+
+```bash
+mahin@arch ~ > yt --latest --channel shell-ninja
+```
 
 <div align="center">
 
@@ -62,3 +134,7 @@ Actually my name is Mahin.<br>I'm a Linux geek who once set out to become a web 
 ![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
 
 </div>
+
+```bash
+mahin@arch ~ > _
+```
