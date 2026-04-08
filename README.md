@@ -1,19 +1,11 @@
-<div align="center">
-<div style="display:inline-block;text-align:left;">
-
-<div style="background:#1e1e2e;border-radius:10px 10px 0 0;padding:10px 16px;display:flex;align-items:center;gap:8px;">
-  <span style="width:13px;height:13px;border-radius:50%;background:#ff5f57;display:inline-block;"></span>
-  <span style="width:13px;height:13px;border-radius:50%;background:#febc2e;display:inline-block;"></span>
-  <span style="width:13px;height:13px;border-radius:50%;background:#28c840;display:inline-block;"></span>
-  &nbsp;&nbsp;
-  <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">shell-ninja@arch ~ &gt; _</span>
-</div>
+<div>
 
 ```bash
 shell-ninja@arch ~ > neofetch
 ```
 
-<table>
+<div align="center">
+<table align="center">
   <tr>
     <td valign="top" width="280">
       <img src="myImg.png" width="260" style="border-radius:8px"/>
@@ -40,10 +32,9 @@ Icons   :    Papirus
   </td>
   </tr>
 </table>
-
-</div>
 </div>
 
+</div>
 
 ```bash
 shell-ninja@arch ~ > whoami
@@ -95,32 +86,6 @@ shell-ninja@arch ~ > cat socials.conf
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahin_bhau)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shell-ninja)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shell-ninja)
-
-<!-- ---
-
-```bash
-shell-ninja@arch ~ > gh stats --user shell-ninja
-```
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=shell-ninja&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shell-ninja&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shell-ninja&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div> -->
-<!-- 
----
-
-```bash
-shell-ninja@arch ~ > git log --top-repos --limit=5
-```
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=shell-ninja&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div> -->
 
 ---
 
