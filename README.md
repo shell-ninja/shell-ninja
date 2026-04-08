@@ -1,16 +1,17 @@
-<div style="background:#1e1e2e;border-radius:10px 10px 0 0;padding:10px 16px;display:flex;align-items:center;gap:8px;width:100%;box-sizing:border-box;">
+<div align="center">
+
+<div style="background:#1e1e2e;border-radius:10px 10px 0 0;padding:10px 16px;display:inline-flex;align-items:center;gap:8px;min-width:340px;">
   <span style="width:13px;height:13px;border-radius:50%;background:#ff5f57;display:inline-block;"></span>
   <span style="width:13px;height:13px;border-radius:50%;background:#febc2e;display:inline-block;"></span>
   <span style="width:13px;height:13px;border-radius:50%;background:#28c840;display:inline-block;"></span>
   &nbsp;&nbsp;
-  <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">mahin@arch ~ &gt; _</span>
 </div>
 
+```bash
+shell-ninja@arch ~ > neofetch
+```
 
-<span style="color:#cdd6f4;font-family:monospace;font-size:14px;">mahin</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">@</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">arch</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">~</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">&gt;</span> neofetch
-
-
-<table style="background:#1e1e2e;border-radius:10px 10px 0 0;padding:10px 16px;display:flex;align-items:center;gap:8px;width:100%;box-sizing:border-box;">
+<table align="center">
   <tr>
     <td valign="top" width="280">
       <img src="myImg.png" width="260" style="border-radius:8px"/>
@@ -18,34 +19,38 @@
     <td valign="top" style="padding-left: 20px;">
 
 ```
-        mahin@arch
+        shell-ninja@arch
         ----------
-OS    : Arch Linux x86_64
-WM    : Hyprland
-Shell : zsh
-Term  : kitty
-Editor: nvim
-Theme : Catppuccin Mocha
-Icons : Papirus
-Fetch : neofetch
+OS      :    Arch Linux x86_64
+WM      :    Hyprland
+Shell   :    Bash
+Term    :    kitty
+Editor  :    nvim
+Theme   :    Catppuccin Mocha
+Icons   :    Papirus
 ```
 
 ```
-██ ██ ██ ██ ██ ██ ██ ██
-▓▓ ▓▓ ▓▓ ▓▓ ▓▓ ▓▓ ▓▓ ▓▓
+██ ██ ██ ██ ██ ██ ██ ██    |
+▓▓ ▓▓ ▓▓ ▓▓ ▓▓ ▓▓ ▓▓ ▓▓    |
 ```
 
   </td>
   </tr>
 </table>
 
-<span style="color:#cdd6f4;font-family:monospace;font-size:14px;">mahin</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">@</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">arch</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">~</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">&gt;</span> whoami
+</div>
 
+```bash
+shell-ninja@arch ~ > whoami
+```
 > **Shell Ninja** — Linux geek, script addict, desktop ricer 🐧
 
-<span style="color:#cdd6f4;font-family:monospace;font-size:14px;">mahin</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">@</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">arch</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">~</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">&gt;</span> cat about.txt
+```bash
+shell-ninja@arch ~ > cat about.txt
+```
 
-Actually my name is **Mahin**.  
+Actually my name is **shell-ninja**.  
 I'm a Linux geek who once set out to become a web developer,  
 but my luck had other plans *(probably running `sudo rm -rf /life`)* 😆  
 Now I spend most of my time writing shell scripts, breaking my Linux  
@@ -54,7 +59,9 @@ my actual life. 🚀💻
 
 ---
 
-<span style="color:#cdd6f4;font-family:monospace;font-size:14px;">mahin</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">@</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">arch</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">~</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">&gt;</span> ls -la tech-stack/
+```bash
+shell-ninja@arch ~ > ls -la tech-stack/
+```
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](.)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](.)
@@ -76,16 +83,20 @@ my actual life. 🚀💻
 
 ---
 
-<span style="color:#cdd6f4;font-family:monospace;font-size:14px;">mahin</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">@</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">arch</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">~</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">&gt;</span> cat socials.conf
+```bash
+shell-ninja@arch ~ > cat socials.conf
+```
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahin.bhau)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahin_bhau)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shell-ninja)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shell-ninja)
 
----
+<!-- ---
 
-<span style="color:#cdd6f4;font-family:monospace;font-size:14px;">mahin</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">@</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">arch</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">~</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">&gt;</span> gh stats --user shell-ninja
+```bash
+shell-ninja@arch ~ > gh stats --user shell-ninja
+```
 
 <div align="center">
 
@@ -93,21 +104,25 @@ my actual life. 🚀💻
 ![](https://nirzak-streak-stats.vercel.app/?user=shell-ninja&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shell-ninja&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
-
+</div> -->
+<!-- 
 ---
 
-<span style="color:#cdd6f4;font-family:monospace;font-size:14px;">mahin</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">@</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">arch</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">~</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">&gt;</span> git log --top-repos --limit=5
+```bash
+shell-ninja@arch ~ > git log --top-repos --limit=5
+```
 
 <div align="center">
 
 ![](https://github-contributor-stats.vercel.app/api?username=shell-ninja&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-</div>
+</div> -->
 
 ---
 
-<span style="color:#cdd6f4;font-family:monospace;font-size:14px;">mahin</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">@</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">arch</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">~</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">&gt;</span> yt --latest --channel shell-ninja
+```bash
+shell-ninja@arch ~ > yt --latest --channel shell-ninja
+```
 
 <div align="center">
 
@@ -123,3 +138,7 @@ my actual life. 🚀💻
 ![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
 
 </div>
+
+```bash
+shell-ninja@arch ~ > _
+```
