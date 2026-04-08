@@ -1,17 +1,19 @@
 <div align="center">
+<div style="display:inline-block;text-align:left;">
 
-<div style="background:#1e1e2e;border-radius:10px 10px 0 0;padding:10px 16px;display:inline-flex;align-items:center;gap:8px;min-width:340px;">
+<div style="background:#1e1e2e;border-radius:10px 10px 0 0;padding:10px 16px;display:flex;align-items:center;gap:8px;">
   <span style="width:13px;height:13px;border-radius:50%;background:#ff5f57;display:inline-block;"></span>
   <span style="width:13px;height:13px;border-radius:50%;background:#febc2e;display:inline-block;"></span>
   <span style="width:13px;height:13px;border-radius:50%;background:#28c840;display:inline-block;"></span>
   &nbsp;&nbsp;
+  <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">shell-ninja@arch ~ &gt; _</span>
 </div>
 
 ```bash
 shell-ninja@arch ~ > neofetch
 ```
 
-<table align="center">
+<table>
   <tr>
     <td valign="top" width="280">
       <img src="myImg.png" width="260" style="border-radius:8px"/>
@@ -40,6 +42,8 @@ Icons   :    Papirus
 </table>
 
 </div>
+</div>
+
 
 ```bash
 shell-ninja@arch ~ > whoami
