@@ -1,14 +1,16 @@
-```bash
-┌──────────────────────────────────────────────────────────────┐
-│                     mahin@arch ~ >_                          │
-└──────────────────────────────────────────────────────────────┘
-```
+<div style="background:#1e1e2e;border-radius:10px 10px 0 0;padding:10px 16px;display:flex;align-items:center;gap:8px;width:100%;box-sizing:border-box;">
+  <span style="width:13px;height:13px;border-radius:50%;background:#ff5f57;display:inline-block;"></span>
+  <span style="width:13px;height:13px;border-radius:50%;background:#febc2e;display:inline-block;"></span>
+  <span style="width:13px;height:13px;border-radius:50%;background:#28c840;display:inline-block;"></span>
+  &nbsp;&nbsp;
+  <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">mahin@arch ~ &gt; _</span>
+</div>
 
-```bash
-mahin@arch ~ > neofetch
-```
 
-<table>
+<span style="color:#cdd6f4;font-family:monospace;font-size:14px;">mahin</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">@</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">arch</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">~</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">&gt;</span> neofetch
+
+
+<table style="background:#1e1e2e;border-radius:10px 10px 0 0;padding:10px 16px;display:flex;align-items:center;gap:8px;width:100%;box-sizing:border-box;">
   <tr>
     <td valign="top" width="280">
       <img src="myImg.png" width="260" style="border-radius:8px"/>
@@ -37,14 +39,11 @@ Fetch : neofetch
   </tr>
 </table>
 
-```bash
-mahin@arch ~ > whoami
-```
+<span style="color:#cdd6f4;font-family:monospace;font-size:14px;">mahin</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">@</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">arch</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">~</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">&gt;</span> whoami
+
 > **Shell Ninja** — Linux geek, script addict, desktop ricer 🐧
 
-```bash
-mahin@arch ~ > cat about.txt
-```
+<span style="color:#cdd6f4;font-family:monospace;font-size:14px;">mahin</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">@</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">arch</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">~</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">&gt;</span> cat about.txt
 
 Actually my name is **Mahin**.  
 I'm a Linux geek who once set out to become a web developer,  
@@ -55,9 +54,7 @@ my actual life. 🚀💻
 
 ---
 
-```bash
-mahin@arch ~ > ls -la tech-stack/
-```
+<span style="color:#cdd6f4;font-family:monospace;font-size:14px;">mahin</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">@</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">arch</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">~</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">&gt;</span> ls -la tech-stack/
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](.)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](.)
@@ -79,9 +76,7 @@ mahin@arch ~ > ls -la tech-stack/
 
 ---
 
-```bash
-mahin@arch ~ > cat socials.conf
-```
+<span style="color:#cdd6f4;font-family:monospace;font-size:14px;">mahin</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">@</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">arch</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">~</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">&gt;</span> cat socials.conf
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahin.bhau)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahin_bhau)
@@ -90,9 +85,7 @@ mahin@arch ~ > cat socials.conf
 
 ---
 
-```bash
-mahin@arch ~ > gh stats --user shell-ninja
-```
+<span style="color:#cdd6f4;font-family:monospace;font-size:14px;">mahin</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">@</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">arch</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">~</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">&gt;</span> gh stats --user shell-ninja
 
 <div align="center">
 
@@ -104,9 +97,7 @@ mahin@arch ~ > gh stats --user shell-ninja
 
 ---
 
-```bash
-mahin@arch ~ > git log --top-repos --limit=5
-```
+<span style="color:#cdd6f4;font-family:monospace;font-size:14px;">mahin</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">@</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">arch</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">~</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">&gt;</span> git log --top-repos --limit=5
 
 <div align="center">
 
@@ -116,9 +107,7 @@ mahin@arch ~ > git log --top-repos --limit=5
 
 ---
 
-```bash
-mahin@arch ~ > yt --latest --channel shell-ninja
-```
+<span style="color:#cdd6f4;font-family:monospace;font-size:14px;">mahin</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">@</span><span style="color:#cdd6f4;font-family:monospace;font-size:14px;">arch</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">~</span> <span style="color:#cdd6f4;font-family:monospace;font-size:14px;">&gt;</span> yt --latest --channel shell-ninja
 
 <div align="center">
 
@@ -134,7 +123,3 @@ mahin@arch ~ > yt --latest --channel shell-ninja
 ![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
 
 </div>
-
-```bash
-mahin@arch ~ > _
-```
