@@ -12,7 +12,7 @@ shell-ninja@arch ~ > neofetch
     </td>
     <td valign="top" style="padding-left: 20px;">
 
-```
+<pre>
         shell-ninja@arch
         ----------
 OS      :    Arch Linux x86_64
@@ -22,12 +22,12 @@ Term    :    kitty
 Editor  :    nvim
 Theme   :    Catppuccin Mocha
 Icons   :    Papirus
-```
+</pre>
 
-```
+<pre>
 ██ ██ ██ ██ ██ ██ ██ ██    |
 ▓▓ ▓▓ ▓▓ ▓▓ ▓▓ ▓▓ ▓▓ ▓▓    |
-```
+</pre>
 
   </td>
   </tr>
